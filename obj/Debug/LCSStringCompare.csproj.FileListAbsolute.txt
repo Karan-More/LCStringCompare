@@ -1,0 +1,7 @@
+C:\Extra Work\Advance .Net\LCSStringCompare\bin\Debug\LCSStringCompare.exe.config
+C:\Extra Work\Advance .Net\LCSStringCompare\bin\Debug\LCSStringCompare.exe
+C:\Extra Work\Advance .Net\LCSStringCompare\bin\Debug\LCSStringCompare.pdb
+C:\Extra Work\Advance .Net\LCSStringCompare\obj\Debug\LCSStringCompare.csprojAssemblyReference.cache
+C:\Extra Work\Advance .Net\LCSStringCompare\obj\Debug\LCSStringCompare.csproj.CoreCompileInputs.cache
+C:\Extra Work\Advance .Net\LCSStringCompare\obj\Debug\LCSStringCompare.exe
+C:\Extra Work\Advance .Net\LCSStringCompare\obj\Debug\LCSStringCompare.pdb
